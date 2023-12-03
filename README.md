@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dr-CLIPO
 - 👀 I’m really interested in programming
 - 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can contact me through
+ medrclipo@gmail.com
 
 <!---
 Dr-CLIPO/Dr-CLIPO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
